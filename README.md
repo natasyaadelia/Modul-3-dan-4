@@ -22,6 +22,7 @@
 # ![AltText](https://github.com/natasyaadelia/Modul-3-dan-4/blob/master/4.1%20fungsi.JPG)
 # Modul 4 Parameter
 # ![AltText](https://github.com/natasyaadelia/Modul-3-dan-4/blob/master/4.1%20parameter.JPG)
+# Modul 4 Return Value
 # ![AltText](https://github.com/natasyaadelia/Modul-3-dan-4/blob/master/4.2.JPG)
 # Tugas Modul 4 
 # ![AltText](https://github.com/natasyaadelia/Modul-3-dan-4/blob/master/Persegi.JPG)
